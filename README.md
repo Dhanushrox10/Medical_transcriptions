@@ -10,7 +10,7 @@ using Databricks, Delta Lake, PySpark and Mistral LLM.
 - Total rows: 4999
 
 ## Architecture
-![Star Schema](Star_Schema.png)
+![Star Schema](Star_schema.png)
 
 ## Medallion Architecture
 | Layer | Table | Rows | Description |
