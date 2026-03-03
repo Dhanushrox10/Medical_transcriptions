@@ -1,8 +1,7 @@
 # Medical Transcription Analysis
 
 ## Overview
-End-to-end data engineering pipeline for medical transcription data
-using Databricks, Delta Lake, PySpark and Mistral LLM.
+Built an end-to-end pipeline for medical transcription data, processing and transforming raw clinical text into structured insights through scalable workflows and NLP-driven analysis for downstream analytics and reporting.
 
 ## Dataset
 - Source: Medical transcriptions CSV
