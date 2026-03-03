@@ -1,4 +1,4 @@
-# Medical Transcriptions Data Engineering Project
+# Medical Transcription Analysis
 
 ## Overview
 End-to-end data engineering pipeline for medical transcription data
